@@ -1,0 +1,31 @@
+body{
+  background-image:url('http://users.wpi.edu/~jta/images/sigma.jpg');
+}
+
+input[type=button]{
+  background-color: purple;
+  width:100px;
+  font-size: 50px;
+  border-radius: 20px;
+  border:0;
+  box-shadow:0 10px grey;
+  margin:7px;
+  }
+
+input[type=button]:active {
+  transform: translateY(8px);
+  background-color: purple;
+  box-shadow:0 8px #4d4d33;
+}
+
+#stuff{
+  background-color:black;
+  width:400px;
+  height:50px;
+  font: 40px bold;
+  text-align: right;
+  color: white;
+}
+
+
+
