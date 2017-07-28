@@ -1,2 +1,2 @@
 # Calculator
-Capbale of simple calculations 
+Capable of simple arithmetic 
